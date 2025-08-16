@@ -1,0 +1,2 @@
+# Optimizing-Profits-in-Western-Bahia-Drylands-Brazil-Using-Linear-Programming
+This repository illustrates the application of RStudio for linear programming and sensitivity analysis to optimize profits under resource constrained conditions in Sama, Western Bahia, Brazil. Enhanced resource allocation by formulating objective functions and constraints using hydroclimatic and agricultural data and solving the formulated LPP.
